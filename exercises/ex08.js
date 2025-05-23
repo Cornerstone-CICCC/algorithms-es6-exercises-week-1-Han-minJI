@@ -15,8 +15,8 @@ You can check if a number is divisible by another number by checking if x % y ==
 
 var x = 1;
 
-while (/* your stop condition goes here */) {
-    // check divisibility
-    // print Fizz, Buzz, or FizzBuzz
-    // increment x
-}
+// while (/* your stop condition goes here */) {
+//     // check divisibility
+//     // print Fizz, Buzz, or FizzBuzz
+//     // increment x
+// }
