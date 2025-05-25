@@ -32,21 +32,21 @@ for(let i=1; i<=100;i++){
 }
 
 
-while (y<100) {
-    // check divisibility
-    // print Fizz, Buzz, or FizzBuzz
-    // increment x
-    if(y % 3 === 0){
-    console.log("Fizz")
-  }else if(y % 5 === 0){
-    console.log("Buzz")
-  }else if(y % 3 === 0 && y % 5 === 0 ){
-    console.log("FizzBuzz")
-  }else{
-    console.log(y)
-  }
+// while (y<100) {
+//     // check divisibility
+//     // print Fizz, Buzz, or FizzBuzz
+//     // increment x
+//     if(y % 3 === 0){
+//     console.log("Fizz")
+//   }else if(y % 5 === 0){
+//     console.log("Buzz")
+//   }else if(y % 3 === 0 && y % 5 === 0 ){
+//     console.log("FizzBuzz")
+//   }else{
+//     console.log(y)
+//   }
 
-  y++
+//   y++
 
 
-}
+// }
