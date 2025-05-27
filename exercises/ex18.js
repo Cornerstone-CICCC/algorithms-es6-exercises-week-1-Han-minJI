@@ -4,3 +4,12 @@ Write a named function expression that stores the function in a variable called 
 cry();
 Returns: boohoo!
 */
+
+// named function expression
+function cry(){
+  
+  let returns = 'boohoo!'
+  return returns
+}
+
+console.log(cry());
